@@ -19,6 +19,7 @@
 	"dependencies": {
 		"boxen": "^7.1.1",
 		"chalk": "^5.3.0",
+		"discord-server-cloner-2": "file:",
 		"discord.js-selfbot-v13": "^2.15.1",
 		"dotenv": "^16.3.1",
 		"gradient-string": "^2.0.2",
